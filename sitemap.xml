@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>https://wspringe.github.io/self//#about</loc>
+    <lastmod>2017-05-11T15:11:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wspringe.github.io/self//#projects</loc>
+    <lastmod>2017-05-12T16:31:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wspringe.github.io/self//#resume</loc>
+    <lastmod>2017-05-12T15:52:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wspringe.github.io/self//#contact</loc>
+    <lastmod>2017-05-12T16:09:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wspringe.github.io/self//#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wspringe.github.io/self//#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wspringe.github.io/self//#</loc>
+    <lastmod>2017-05-11T15:11:52-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
